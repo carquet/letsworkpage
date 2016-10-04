@@ -7,19 +7,12 @@ html, body {
 	background-color: #333333;
 }
 
+
 .container {
 	margin: 0 auto;
 	padding: 0 10px;
 }
-
-.jumbotron {
-	height: 700px;
-	background:url(home-office.jpg)no-repeat center center scroll;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
-}
+/* nav bar*/
 
 .nav {
 	margin: 0;
@@ -35,6 +28,16 @@ html, body {
 	margin: 40px;
 }
 
+/* center page photo*/
+.jumbotron {
+	height: 600px;
+	background:url(home-office.jpg)no-repeat center center scroll;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
 .main {
 	position: relative;
 	top: 180px;
@@ -47,7 +50,7 @@ html, body {
 	font-weight: 600;
 	font-size: 70px;
 	margin-top: 0;
-	margin-bottom: 80px;
+	margin-bottom: 60px;
 	text-transform: uppercase;
 }
 
@@ -60,6 +63,8 @@ html, body {
 	padding: 16px 40px;
 	text-transform: uppercase;
 }
+
+/* three column part */
 .icon {
 	height: 50px;
 	width: 50px;
@@ -84,7 +89,7 @@ html, body {
 
 
 .supporting {
-  padding-top: 60px;
+  padding-top: 40px;
   padding-bottom: 100px;
   background-color: white;
 }
@@ -92,7 +97,6 @@ html, body {
 .supporting .col {
   float: left;
   width: 50%;
-  height: 50px;
   font-family: 'Open sans', sans-serif;
   text-align: center;
 }
@@ -113,4 +117,14 @@ html, body {
   line-height: 20px;
   margin-bottom: 100px;
 }
+
+
+/*footer*/
+.footer {
+	background-color: #333;
+	color: #fff;
+	margin-top: 100px;
+	padding: 30px 0;
+}
+
 
