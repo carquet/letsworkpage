@@ -1,0 +1,22 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	background-color: #333333;
+}
+
+.container {
+	margin: 0 auto;
+	padding: 0 10px;
+}
+
+.jumbotron {
+	height: 700px;
+	background:url(home-office.jpg)no-repeat center center scroll;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
