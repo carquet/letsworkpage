@@ -1,6 +1,7 @@
 # Home page of a website
 
 Practice page for front end development
+![home page](presentation.png)
 
 
 * HTML
@@ -9,5 +10,7 @@ Practice page for front end development
 * git
 * images from Pixabay 
 *glycohon from http://glyphicons.com/ 
+
+
 
 
