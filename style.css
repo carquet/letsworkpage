@@ -34,3 +34,19 @@ html, body {
 	display: inline;
 	margin: 40px;
 }
+
+.main {
+	position: relative;
+	top: 180px;
+	text-align: center;
+}
+
+.main h1 {
+	color: #ffffff;
+	font-family: 'Open sans', sans-serif;
+	font-weight: 600;
+	font-size: 70px;
+	margin-top: 0;
+	margin-bottom: 80px;
+	text-transform: uppercase;
+}
