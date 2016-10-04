@@ -50,3 +50,32 @@ html, body {
 	margin-bottom: 80px;
 	text-transform: uppercase;
 }
+
+.btn-main {
+	background-color: #333;
+	color: #fff;
+	font-family: 'Open sans', sans-serif;
+	font-size: 18px;
+	text-decoration: none;
+	padding: 16px 40px;
+	text-transform: uppercase;
+}
+.icon {
+	height: 50px;
+	width: 50px;
+	margin:auto;
+	text-align: center;
+	line-height: 100px;
+}
+
+.btn-default {
+	border: 1px solid #333;
+	background-color: #fff;
+	font-family: 'Open sans', sans-serif;
+	font-weight: 600;
+	font-size: 10px;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 10px 20px;
+	display: inline-block;
+}
